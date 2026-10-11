@@ -1,0 +1,20 @@
+PROJECT RESULTS (ACTUAL RUN; SIMULATED DATA ONLY)
+
+Rows: 1200
+Training rows: 900
+Test rows: 300
+Simulated defect rate: 27.33%
+
+Accuracy: 0.73
+Precision (defect class): 0.5088
+Recall (defect class): 0.3537
+F1-score (defect class): 0.4173
+
+Interpretation:
+- Accuracy = overall fraction of test predictions that were correct.
+- Precision = among predicted defects, the fraction that were defects.
+- Recall = among actual defects, the fraction detected by the model.
+- F1-score = harmonic mean of precision and recall.
+
+Caution: these are actual execution results from an artificially generated educational dataset.
+They are not evidence of performance on real manufacturing data.

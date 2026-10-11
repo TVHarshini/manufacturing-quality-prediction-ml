@@ -1,0 +1,13 @@
+{
+  "dataset_type": "SIMULATED / educational only",
+  "rows_total": 1200,
+  "training_rows": 900,
+  "test_rows": 300,
+  "defect_rate_percent": 27.33,
+  "accuracy": 0.73,
+  "precision_defect_class": 0.5088,
+  "recall_defect_class": 0.3537,
+  "f1_defect_class": 0.4173,
+  "random_state": 42,
+  "note": "Metrics describe this simulated dataset only; they do not establish real-world factory performance."
+}

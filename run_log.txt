@@ -1,0 +1,8 @@
+Manufacturing Quality Prediction — completed
+Dataset: SIMULATED educational data
+Rows: 1200 | Train: 900 | Test: 300
+Accuracy:  0.7300
+Precision: 0.5088
+Recall:    0.3537
+F1-score:  0.4173
+Files saved in outputs/ and screenshots/

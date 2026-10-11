@@ -1,0 +1,12 @@
+CLASSIFICATION REPORT — SIMULATED DATA ONLY
+
+              precision    recall  f1-score   support
+
+   No defect       0.78      0.87      0.82       218
+      Defect       0.51      0.35      0.42        82
+
+    accuracy                           0.73       300
+   macro avg       0.65      0.61      0.62       300
+weighted avg       0.71      0.73      0.71       300
+
+Caution: results are from simulated educational data, not real factory data.
